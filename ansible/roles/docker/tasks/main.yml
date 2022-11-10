@@ -4,7 +4,7 @@
   docker_image:
     name: mohamedbenmiled/devopss:latest
     build:
-     path: /var/lib/jenkins/workspace/CD
+     path: /var/lib/jenkins/workspace/DevopsCD
      pull: no
     source: build
     state: present
